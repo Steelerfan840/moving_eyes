@@ -1,6 +1,6 @@
 
 # moving_eyes
-<img src = "screenshot.png" width: "300"/>
+<img src = "screenshot.png" width = "300"/>
 
 Title: Moving Eyes
 
