@@ -1,5 +1,6 @@
 
 # moving_eyes
+## Watch the eyes follow the mouse cursor!
 <img src = "screenshot.png" width = "300"/>
 
 Title: Moving Eyes
